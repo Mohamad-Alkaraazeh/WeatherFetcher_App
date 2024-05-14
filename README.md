@@ -1,1 +1,1 @@
-**An app for forecasting the weather in a city. **
+***An app for forecasting the weather in a city. ***
